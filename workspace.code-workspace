@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\c++"
+		},
+		{
+			"path": "..\\js-learnining"
+		}
+	],
+	"settings": {
+		"code-runner.runInTerminal": true,
+		"liveServer.settings.multiRootWorkspaceName": "js-learnining"
+	}
+}
