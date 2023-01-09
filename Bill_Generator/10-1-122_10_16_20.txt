@@ -1,0 +1,8 @@
+**********************Invoice**********************
+pineapple4 /t:/t 200
+apple2 /t:/t 100
+pineapple3 /t:/t 200
+apple5 /t:/t 100
+pineapple /t:/t 200
+apple /t:/t 100
+Total Amount /t:/t 900

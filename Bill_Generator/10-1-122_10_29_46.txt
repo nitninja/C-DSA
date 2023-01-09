@@ -1,0 +1,8 @@
+**********************Invoice**********************
+pineapple4 :                               200
+apple2 :                                   100
+pineapple3 :                               200
+apple5 :                                   100
+pineapple :                                200
+apple :                                    100
+Total Amount : 900
