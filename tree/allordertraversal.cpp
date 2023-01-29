@@ -64,15 +64,17 @@ int main(){
     root->left->left->left=newNode(8);
     root->left->left->right=newNode(9);
     root->right->right->left=newNode(14);
+    cout<<"\n"<<endl;
 
     cout<<"InOrder traversal: ";
     InOrder(root);
-    cout<<endl;
+    cout<<"\n"<<endl;
     cout<<"PreOrder traversal: ";
     PreOrder(root);
-    cout<<endl;
+    cout<<"\n"<<endl;
     cout<<"PostOrder traversal: ";
     PostOrder(root);
+    cout<<"\n"<<endl;
     
   
   

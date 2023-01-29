@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
   
- int num=113,temp,n,sum=0;
+ int num=121,temp,n,sum=0;
  
 temp=num;
  while (num>0){
