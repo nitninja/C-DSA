@@ -27,11 +27,6 @@ int main(){
         if(lft>rft)
         printf("Doesn't exists");
 
-    
-    
-
-
-
 
     return 0;
 }
